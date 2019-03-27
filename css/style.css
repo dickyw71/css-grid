@@ -3,22 +3,28 @@
   padding: 0; }
 
 .main-footer {
-  grid-area: footer; }
+  grid-area: footer;
+  border: 1px solid orangered; }
 
-.main-header {
-  grid-area: header; }
+.main-head {
+  grid-area: header;
+  border: 1px solid orangered; }
 
 .main-nav {
-  grid-area: nav; }
+  grid-area: nav;
+  border: 1px solid orangered; }
 
 .content {
-  grid-area: content; }
+  grid-area: content;
+  border: 1px solid orangered; }
 
 .side {
-  grid-area: sidebar; }
+  grid-area: sidebar;
+  border: 1px solid orangered; }
 
 .ad {
-  grid-area: ad; }
+  grid-area: ad;
+  border: 1px solid orangered; }
 
 .wrapper {
   display: grid;
