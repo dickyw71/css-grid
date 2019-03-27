@@ -1,0 +1,14 @@
+@media (min-width: 500px) {
+    .wrapper {
+        grid-template-columns: 3fr 2fr;
+        grid-template-areas: 
+            "header     header"
+            "nav        nav"
+            "content    sidebar"
+            "footer     ad";
+    }
+    nav ul {
+        display: flex;
+        justify-content: space-between;
+    }
+}
