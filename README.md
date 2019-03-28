@@ -1,4 +1,8 @@
-# SCSS Boilerplate
+# CSS Grid
+
+Project using CSS Grid for a responsive webpage layout with a generic set of page elements e.g. header, navigation, section, content, aside (sidebar) and footer. 
+
+## Forked from this [SCSS Boilerplate](https://github.com/thomlom/scss-boilerplate) repo
 
 This repository contains SCSS boilerplate code to quickly get started on building a webpage following a simplified version of the 7-1 pattern.
 
