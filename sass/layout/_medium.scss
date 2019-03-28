@@ -1,11 +1,12 @@
 @media (min-width: 500px) {
     .wrapper {
-        grid-template-columns: 3fr 2fr;
+        grid-template-columns: 3fr 1fr;
         grid-template-areas: 
             "header     header"
             "nav        nav"
+            "section    sidebar"
             "content    sidebar"
-            "footer     ad";
+            "footer     footer";
     }
     nav ul {
         display: flex;
